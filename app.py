@@ -14,3 +14,4 @@ if(avg>80 and avg<90 ):
     print("You achieved B Grade with avg of :", avg)
 if(avg>70 and avg<80):
     print("You achieved C Grade with avg of :", avg)
+
