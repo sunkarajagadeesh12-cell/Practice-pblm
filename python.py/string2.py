@@ -38,7 +38,7 @@ print(str[:4])#[0:4]
 str = "Sai jaggu"
 print(str[-5:])
 """
-"""
+
 #string function
 #endswith
 str = "Sai is doing well"
@@ -63,4 +63,4 @@ print(str.find("i"))#if the letter is not exist it shows -1
 #count
 str = "sai is doing well"
 print(str.count("s"))
-"""
+
