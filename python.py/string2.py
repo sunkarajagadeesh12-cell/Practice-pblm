@@ -53,6 +53,7 @@ print(str)
 
 #Replace
 
+
 str = "sai is doing well"
 print(str.replace("i","o"))#("python", "Java")
 
